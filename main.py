@@ -11,7 +11,6 @@ import numpy as np
 zipped = zip(cv.get_feature_names(), np.ravel(train.sum(axis=0)))
 
 import csv
-
 with open('output.csv', "w") as output:
         writer = csv.writer(output)
         writer.writerow(['word','count'])
