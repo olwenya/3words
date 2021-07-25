@@ -1,18 +1,18 @@
-good-hearted honest dependable
+considerate honest dependable
 
-go-to-person ownership enthusiastic
+reliable responsible enthusiastic
 
 passionate precise empathetic
 
-curious dedicated fastlearner
+curious dedicated intelligent
 
 sensible prudent genuine
 
-curious open-minded determined
+curious openminded determined
 
 reliable efficient cool
 
-energetic enthusiastic learner
+energetic enthusiastic intelligent
 
 dedicated thorough smart
 
@@ -36,7 +36,7 @@ helpful reliable patient
 
 calm helpful assertive
 
-hard-working innovator
+diligent innovator
 
 ambitious
 
@@ -44,9 +44,9 @@ dependable charismatic attentive
 
 passionate innovative honest
 
-creative hard-working humorous
+creative diligent humorous
 
-open fun-loving engaged
+accessible humorous engaged
 
 intelligent caring humorous
 
@@ -56,17 +56,17 @@ reliable knowledgeable helpful
 
 smart empathetic leader
 
-considerate focused hard-working
+considerate focused diligent
 
 smart diligent personable
 
 practical laidback reserved
 
-dedicated adaptable hard-working
+dedicated adaptable diligent
 
 thorough caring patient
 
-smart knowledgeable learner
+smart knowledgeable intelligent
 
 humorous caring reliable
 
@@ -78,33 +78,33 @@ approachable excellent simple
 
 reserved conscientious meticulous
 
-intentional creative introverted
+intentional creative introvert
 
 loyal humorous smart
 
-self-aware calm humorous
+selfaware calm humorous
 
 humorous
 
-smart technical learner
+smart technical intelligent
 
-insightful reliable well-spoken
+insightful reliable eloquent
 
-friendly problem-solver helper
+friendly problemsolver helpful
 
 Serious photographer kind
 
-trustworthy hardworker open to helping resolve issues
+trustworthy diligent problemsolver
 
 reliable professional helpful
 
-kind, technical and willing to help
+kind technical helpful
 
-Stable, funny, trustworthy
+reliable humorous trustworthy
 
-Unwavering, funny, direct
+Unwavering humorous, direct
 
-Dependable, Hard-working, Collaborative
+Dependable, diligent, Collaborative
 
 dedicated, invested, quality
 
