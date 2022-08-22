@@ -8,8 +8,9 @@ sklearn = "*"
 pandas = "*"
 numpy = "*"
 ipykernel = "*"
-
-[requires]
-python_version = "3.9"
+jupyterlab = "*"
 
 [dev-packages]
+
+[requires]
+python_version = "3.10"
